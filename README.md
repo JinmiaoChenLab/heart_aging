@@ -6,4 +6,5 @@ This repository is used for replicating all figures and analytical results from 
 The original and integrated data of scRNA-seq and snRNA-seq can be downloaded at https://zenodo.org/records/10972086
 
 
-![](https://github.com/JinmiaoChenLab/heart_aging/figure/Figure_1B.png)
+![](https://github.com/JinmiaoChenLab/heart_aging/blob/main/figure/Figure_1B.png)
+
